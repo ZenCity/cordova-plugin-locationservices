@@ -1,16 +1,16 @@
 {
-  "name": "cordova-plugin-locationservices",
+  "name": "cordova-plugin-locationservices-fix",
   "version": "1.0.2",
   "description": "Android geolocation plugin using Google Play Services Location API.",
   "cordova": {
-    "id": "cordova-plugin-locationservices",
+    "id": "cordova-plugin-locationservices-fix",
     "platforms": [
       "android"
     ]
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/louisbl/cordova-plugin-locationservices"
+    "url": "https://github.com/ZenCity/cordova-plugin-locationservices"
   },
   "keywords": [
     "cordova",
